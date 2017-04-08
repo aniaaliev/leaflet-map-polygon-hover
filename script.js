@@ -33,6 +33,7 @@ function getColor(d) {
          d == "Safe Haven of Greater Waterbury"  ? 'beige' :
          d == "Womens Center"   ? 'green' :
          d == "Womens Support Services"   ? 'sky' :
+         d == "Safe Futures" ? 'lavender' :
                     '#FFEDA0';
 }
 
