@@ -37,10 +37,12 @@ function getColor(d) {
          d == "Domestic Violence Program/United Services Inc.- Willimantic, CT" ? 'orange' :
          d == "Domestic Violence Program/United Services Inc.-Dayville, CT" ? 'purple' :
          d == "The Umbrella Center For Domestic Violence Services-Ansonia, CT" ? 'navy' :
-         d == "The Umbrella Center For Domestic Violence Services-North Haven, CT" ? 'taupe' :
+         d == "The Umbrella Center For Domestic Violence Services-North Haven, CT" ? 'gray' :
          d == "Chrysalis Domestic Violence Services" ? 'olive' :
          d == "Domestic Violence Crisis Center-Stamford, CT" ? 'turquoise' :
          d == "Domestic Abuse Services-Greenwich YWCA" ? 'gold' :
+         d == "New Horizons" ? 'aqua' :
+         d == "Prudence Crandall Center" ? 'lilac' :
                     '#FFEDA0';
   
 }
