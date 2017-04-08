@@ -32,9 +32,11 @@ function getColor(d) {
          d == "Susan B. Anthony Project"  ? 'magenta' :
          d == "Safe Haven of Greater Waterbury"  ? 'beige' :
          d == "Womens Center"   ? 'green' :
-         d == "Womens Support Services"   ? 'sapphire' :
+         d == "Womens Support Services"   ? 'celeste' :
          d == "Safe Futures" ? 'lavender' :
+         d == "Domestic Violence Program/United Services Inc.- Willimantic, CT" ? 'orange' :
                     '#FFEDA0';
+  
 }
 
 // Edit the getColor property to match data column header in your GeoJson file
