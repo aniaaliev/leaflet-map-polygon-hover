@@ -28,7 +28,7 @@ $.getJSON("data-map.geojson", function (data) {
 function getColor(d) {
   return d == "Interval House" ? 'yellow' :
          d == "The Network" ? 'light blue' :
-         d > 500  ? '#E31A1C' :
+         d == "Susan B. Anthony Project"  ? '#E31A1C' :
          d > 200  ? '#FC4E2A' :
          d > 100  ? '#FD8D3C' :
          d > 50   ? '#FEB24C' :
