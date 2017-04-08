@@ -31,8 +31,8 @@ function getColor(d) {
          d == "The Center For Family Justice"  ? 'pink' :
          d == "Susan B. Anthony Project"  ? 'magenta' :
          d == "Safe Haven of Greater Waterbury"  ? 'beige' :
-         d > 50   ? '#FEB24C' :
-         d > 30   ? '#FED976' :
+         d == "Womens Center"   ? 'green' :
+         d == "Womens Support Services"   ? 'robin-blue' :
                     '#FFEDA0';
 }
 
