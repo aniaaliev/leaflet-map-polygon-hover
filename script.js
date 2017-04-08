@@ -27,7 +27,7 @@ $.getJSON("data-map.geojson", function (data) {
 // Any values not listed in the ranges below displays as the last color
 function getColor(d) {
   return d == "Interval House" ? 'yellow' :
-         d > 1000 ? '#BD0026' :
+         d == "The Network" ? 'light blue' :
          d > 500  ? '#E31A1C' :
          d > 200  ? '#FC4E2A' :
          d > 100  ? '#FD8D3C' :
