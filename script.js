@@ -26,8 +26,14 @@ $.getJSON("data-map.geojson", function (data) {
 // Edit ranges and colors to match your data; see http://colorbrewer.org
 // Any values not listed in the ranges below displays as the last color
 function getColor(d) {
-  return  d == "Interval House" ? 'red' :
-          '';
+  return d > 5000 ? '#800026' :
+         d > 1000 ? '#BD0026' :
+         d > 500  ? '#E31A1C' :
+         d > 200  ? '#FC4E2A' :
+         d > 100  ? '#FD8D3C' :
+         d > 50   ? '#FEB24C' :
+         d > 30   ? '#FED976' :
+                    '#FFEDA0';
 }
 
 // Edit the getColor property to match data column header in your GeoJson file
