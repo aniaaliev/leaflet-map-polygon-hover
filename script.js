@@ -43,7 +43,7 @@ function getColor(d) {
          d == "Domestic Abuse Services-Greenwich YWCA" ? 'gold' :
          d == "New Horizons" ? 'aqua' :
          d == "Prudence Crandall Center" ? 'violet' :
-         d == "Domestic Violence Crisis Center- Norwalk, CT" ? 'denim' :
+         d == "Domestic Violence Crisis Center- Norwalk, CT" ? 'azure' :
                     '#FFEDA0';
   
 }
