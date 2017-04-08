@@ -26,7 +26,7 @@ $.getJSON("data-map.geojson", function (data) {
 // Edit ranges and colors to match your data; see http://colorbrewer.org
 // Any values not listed in the ranges below displays as the last color
 function getColor(d) {
-  return d == "Interval House" ? 'yellow' :
+  return d === "Interval House" ? 'yellow' :
          d == "The Network" ? 'light blue' :
          d == "Susan B. Anthony Project"  ? '#E31A1C' :
          d > 200  ? '#FC4E2A' :
