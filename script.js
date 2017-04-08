@@ -30,7 +30,7 @@ function getColor(d) {
          d == "The Network" ? 'teal' :
          d == "The Center For Family Justice"  ? 'pink' :
          d == "Susan B. Anthony Project"  ? 'magenta' :
-         d == "Safe Haven of Greater Waterbury"  ? '#beige' :
+         d == "Safe Haven of Greater Waterbury"  ? 'beige' :
          d > 50   ? '#FEB24C' :
          d > 30   ? '#FED976' :
                     '#FFEDA0';
