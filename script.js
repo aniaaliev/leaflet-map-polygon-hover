@@ -32,7 +32,7 @@ function getColor(d) {
          d == "Susan B. Anthony Project"  ? 'magenta' :
          d == "Safe Haven of Greater Waterbury"  ? 'beige' :
          d == "Womens Center"   ? 'green' :
-         d == "Womens Support Services"   ? 'indigo' :
+         d == "Womens Support Services"   ? 'blue' :
          d == "Safe Futures" ? 'lavender' :
          d == "Domestic Violence Program/United Services Inc.- Willimantic, CT" ? 'orange' :
          d == "Domestic Violence Program/United Services Inc.-Dayville, CT" ? 'purple' :
@@ -43,7 +43,7 @@ function getColor(d) {
          d == "Domestic Abuse Services-Greenwich YWCA" ? 'gold' :
          d == "New Horizons" ? 'aqua' :
          d == "Prudence Crandall Center" ? 'violet' :
-         d == "Domestic Violence Crisis Center- Norwalk, CT" ? 'steel' :
+         d == "Domestic Violence Crisis Center- Norwalk, CT" ? 'denim' :
                     '#FFEDA0';
   
 }
