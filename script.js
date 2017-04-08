@@ -92,23 +92,23 @@ info.addTo(map);
 
 // Edit grades in legend to match the ranges cutoffs inserted above
 // In this example, the last grade will appear as 5000+
-var legend = L.control({position: 'bottomright'});
-legend.onAdd = function (map) {
-  var div = L.DomUtil.create('div', 'info legend'),
-    grades = [0, 30, 50, 100, 200, 500, 1000, 5000],
-    labels = [],
-    from, to;
-  for (var i = 0; i < grades.length; i++) {
-    from = grades[i];
-    to = grades[i + 1];
-    labels.push(
-      '<i style="background:' + getColor(from + 1) + '"></i> ' +
-      from + (to ? '&ndash;' + to : '+'));
-  }
-  div.innerHTML = labels.join('<br>');
-  return div;
-};
-legend.addTo(map);
+//var legend = L.control({position: 'bottomright'});
+//legend.onAdd = function (map) {
+  //var div = L.DomUtil.create('div', 'info legend'),
+    //grades = [0, 30, 50, 100, 200, 500, 1000, 5000],
+    //labels = [],
+    //from, to;
+  //for (var i = 0; i < grades.length; i++) {
+    //from = grades[i];
+    //to = grades[i + 1];
+    //labels.push(
+      //'<i style="background:' + getColor(from + 1) + '"></i> ' +
+      //from + (to ? '&ndash;' + to : '+'));
+ // }
+  //div.innerHTML = labels.join('<br>');
+  //return div;
+//};
+//legend.addTo(map);
 
 // Use in info.update if GeoJSON data contains null values, and if so, displays "--"
 function checkNull(val) {
