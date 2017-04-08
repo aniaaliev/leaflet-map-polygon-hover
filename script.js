@@ -84,8 +84,8 @@ info.onAdd = function (map) {
 
 // Edit info box text and variables (such as props.density2010) to match those in your GeoJSON data
 info.update = function (props) {
-  this._div.innerHTML = '<h4>Connecticut Town<br />Population density 2010</h4>' +  (props ?
-    '<b>' + props.town + '</b><br />' + props.density2010 + ' people / mi<sup>2</sup>'
+  this._div.innerHTML = '<h4>Connecticut Coallition Against Domestic Violence<br />Member Map 2017</h4>' +  (props ?
+    '<b>' + props.region + '</b><br />' + props.color + ' people / mi<sup>2</sup>'
     : 'Hover over a town');
 };
 info.addTo(map);
