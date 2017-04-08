@@ -35,6 +35,8 @@ function getColor(d) {
          d == "Womens Support Services"   ? 'celeste' :
          d == "Safe Futures" ? 'lavender' :
          d == "Domestic Violence Program/United Services Inc.- Willimantic, CT" ? 'orange' :
+         d == "Domestic Violence Program/United Services Inc.-Dayville, CT" ? 'purple' :
+         d == "The Umbrella Center For Domestic Violence Services-Ansonia, CT" ? 'navy' :
                     '#FFEDA0';
   
 }
