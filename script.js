@@ -32,14 +32,15 @@ function getColor(d) {
          d == "Susan B. Anthony Project"  ? 'magenta' :
          d == "Safe Haven of Greater Waterbury"  ? 'beige' :
          d == "Womens Center"   ? 'green' :
-         d == "Womens Support Services"   ? 'blue' :
+         d == "Womens Support Services"   ? 'periwinkle' :
          d == "Safe Futures" ? 'lavender' :
          d == "Domestic Violence Program/United Services Inc.- Willimantic, CT" ? 'orange' :
          d == "Domestic Violence Program/United Services Inc.-Dayville, CT" ? 'purple' :
          d == "The Umbrella Center For Domestic Violence Services-Ansonia, CT" ? 'navy' :
-         d == "The Umbrella Center For Domestic Violence Services-North Haven, CT" ? 'olive' :
-         d == "Chrysalis Domestic Violence Services" ? 'moss' :
+         d == "The Umbrella Center For Domestic Violence Services-North Haven, CT" ? 'cream' :
+         d == "Chrysalis Domestic Violence Services" ? 'olive' :
          d == "Domestic Violence Crisis Center-Stamford, CT" ? 'turquoise' :
+         d == "Domestic Abuse Services-Greenwich YWCA" ? 'gold' :
                     '#FFEDA0';
   
 }
