@@ -51,6 +51,74 @@ function getColor(d) {
   L.marker([41.77, -72.69]).addTo(map) // EDIT latitude, longitude to re-position marker
   .bindPopup("Insert pop-up text here"); // EDIT pop-up text message
 
+/* Display a blue point marker with pop-up text */
+  L.marker([41.98, -72.50]).addTo(map) // EDIT latitude, longitude to re-position marker
+  .bindPopup("Insert pop-up text here"); // EDIT pop-up text message
+
+/* Display a blue point marker with pop-up text */
+  L.marker([41.83, -71.90]).addTo(map) // EDIT latitude, longitude to re-position marker
+  .bindPopup("Insert pop-up text here"); // EDIT pop-up text message
+
+/* Display a blue point marker with pop-up text */
+  L.marker([41.81, -72.23]).addTo(map) // EDIT latitude, longitude to re-position marker
+  .bindPopup("Insert pop-up text here"); // EDIT pop-up text message
+
+/* Display a blue point marker with pop-up text */
+  L.marker([41.52, -72.04]).addTo(map) // EDIT latitude, longitude to re-position marker
+  .bindPopup("Insert pop-up text here"); // EDIT pop-up text message
+
+/* Display a blue point marker with pop-up text */
+  L.marker([41.47, -72.55]).addTo(map) // EDIT latitude, longitude to re-position marker
+  .bindPopup("Insert pop-up text here"); // EDIT pop-up text message
+
+/* Display a blue point marker with pop-up text */
+  L.marker([41.33, -72.88]).addTo(map) // EDIT latitude, longitude to re-position marker
+  .bindPopup("Insert pop-up text here"); // EDIT pop-up text message
+
+/* Display a blue point marker with pop-up text */
+  L.marker([41.51, -72.85]).addTo(map) // EDIT latitude, longitude to re-position marker
+  .bindPopup("Insert pop-up text here"); // EDIT pop-up text message
+
+/* Display a blue point marker with pop-up text */
+  L.marker([41.65, -72.88]).addTo(map) // EDIT latitude, longitude to re-position marker
+  .bindPopup("Insert pop-up text here"); // EDIT pop-up text message
+
+/* Display a blue point marker with pop-up text */
+  L.marker([41.83, -73.12]).addTo(map) // EDIT latitude, longitude to re-position marker
+  .bindPopup("Insert pop-up text here"); // EDIT pop-up text message
+
+/* Display a blue point marker with pop-up text */
+  L.marker([41.55, -73.14]).addTo(map) // EDIT latitude, longitude to re-position marker
+  .bindPopup("Insert pop-up text here"); // EDIT pop-up text message
+
+/* Display a blue point marker with pop-up text */
+  L.marker([41.38, -73.09]).addTo(map) // EDIT latitude, longitude to re-position marker
+  .bindPopup("Insert pop-up text here"); // EDIT pop-up text message
+
+/* Display a blue point marker with pop-up text */
+  L.marker([41.26, -73.25]).addTo(map) // EDIT latitude, longitude to re-position marker
+  .bindPopup("Insert pop-up text here"); // EDIT pop-up text message
+
+/* Display a blue point marker with pop-up text */
+  L.marker([41.46, -73.42]).addTo(map) // EDIT latitude, longitude to re-position marker
+  .bindPopup("Insert pop-up text here"); // EDIT pop-up text message
+
+/* Display a blue point marker with pop-up text */
+  L.marker([41.91, -73.36]).addTo(map) // EDIT latitude, longitude to re-position marker
+  .bindPopup("Insert pop-up text here"); // EDIT pop-up text message
+
+/* Display a blue point marker with pop-up text */
+  L.marker([41.16, -73.40]).addTo(map) // EDIT latitude, longitude to re-position marker
+  .bindPopup("Insert pop-up text here"); // EDIT pop-up text message
+
+/* Display a blue point marker with pop-up text */
+  L.marker([41.10, -73.55]).addTo(map) // EDIT latitude, longitude to re-position marker
+  .bindPopup("Insert pop-up text here"); // EDIT pop-up text message
+
+/* Display a blue point marker with pop-up text */
+  L.marker([41.07, -73.64]).addTo(map) // EDIT latitude, longitude to re-position marker
+  .bindPopup("Insert pop-up text here"); // EDIT pop-up text message
+
 // Edit the getColor property to match data column header in your GeoJson file
 function style(feature) {
   return {
