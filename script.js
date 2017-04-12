@@ -47,6 +47,9 @@ function getColor(d) {
                     '#FFEDA0';
   
 }
+/* Display a blue point marker with pop-up text */
+  L.marker([41.77, -72.69]).addTo(map) // EDIT latitude, longitude to re-position marker
+  .bindPopup("Insert pop-up text here"); // EDIT pop-up text message
 
 // Edit the getColor property to match data column header in your GeoJson file
 function style(feature) {
