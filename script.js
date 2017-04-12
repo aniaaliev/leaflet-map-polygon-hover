@@ -77,7 +77,7 @@ function getColor(d) {
 
 /* Display a blue point marker with pop-up text */
   L.marker([41.51, -72.85]).addTo(map) // EDIT latitude, longitude to re-position marker
-  .bindPopup("chrysalis-domestic-violence-services-graph.png"); // EDIT pop-up text message
+  .bindPopup(chrysalis-domestic-violence-services-graph.png); // EDIT pop-up text message
 
 /* Display a blue point marker with pop-up text */
   L.marker([41.65, -72.88]).addTo(map) // EDIT latitude, longitude to re-position marker
