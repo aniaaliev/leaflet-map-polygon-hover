@@ -116,7 +116,7 @@ function getColor(d) {
   .bindPopup("Insert pop-up text here"); // EDIT pop-up text message
 
 /* Display a blue point marker with pop-up text */
-  L.marker([41.07, -73.64]).addTo(map) // EDIT latitude, longitude to re-position marker
+  L.marker([41.07, -73.63]).addTo(map) // EDIT latitude, longitude to re-position marker
   .bindPopup("Insert pop-up text here"); // EDIT pop-up text message
 
 // Edit the getColor property to match data column header in your GeoJson file
