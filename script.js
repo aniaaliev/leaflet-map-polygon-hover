@@ -48,15 +48,15 @@ function getColor(d) {
   
 }
 /* Display a blue point marker with pop-up text */
-  L.marker([41.77, -72.69]).addTo(map) // EDIT latitude, longitude to re-position marker
+  L.marker([41.74, -72.67]).addTo(map) // EDIT latitude, longitude to re-position marker Interval House
   .bindPopup("Insert pop-up text here"); // EDIT pop-up text message
 
 /* Display a blue point marker with pop-up text */
-  L.marker([41.98, -72.50]).addTo(map) // EDIT latitude, longitude to re-position marker
+  L.marker([41.99, -72.56]).addTo(map) // EDIT latitude, longitude to re-position marker The Network
   .bindPopup("Insert pop-up text here"); // EDIT pop-up text message
 
 /* Display a blue point marker with pop-up text */
-  L.marker([41.83, -71.90]).addTo(map) // EDIT latitude, longitude to re-position marker
+  L.marker([41.83, -71.87]).addTo(map) // EDIT latitude, longitude to re-position marker Dayville
   .bindPopup("Insert pop-up text here"); // EDIT pop-up text message
 
 /* Display a blue point marker with pop-up text */
