@@ -61,27 +61,27 @@ function getColor(d) {
 
 /* Display a blue point marker with pop-up text */
   L.marker([41.81, -72.23]).addTo(map) // EDIT latitude, longitude to re-position marker
-  .bindPopup("Insert pop-up text here"); // EDIT pop-up text message
+  .bindPopup('Go to <a href="http://unitedservicesct.org/services/domestic-violence" target="_blank">Domestic Violence Program/United Services, Inc- Willimantic, CT</a><br>View <a href="https://aniaaliev.github.io/leaflet-map-polygon-hover/domestic-violence-program-willimantic-graph.png">Graph</a>');  // EDIT pop-up text message
 
 /* Display a blue point marker with pop-up text */
   L.marker([41.52, -72.04]).addTo(map) // EDIT latitude, longitude to re-position marker
-  .bindPopup("Insert pop-up text here"); // EDIT pop-up text message
+  .bindPopup('Go to <a href="http://www.safefuturesct.org" target="_blank">Safe Futures</a><br>View <a href="https://aniaaliev.github.io/leaflet-map-polygon-hover/safe-futures-graph.png">Graph</a>');  // EDIT pop-up text message
 
 /* Display a blue point marker with pop-up text */
   L.marker([41.47, -72.55]).addTo(map) // EDIT latitude, longitude to re-position marker
-  .bindPopup("Insert pop-up text here"); // EDIT pop-up text message
+  .bindPopup('Go to <a href="http://www.newhorizonsdv.com" target="_blank">New Horizons</a><br>View <a href="https://aniaaliev.github.io/leaflet-map-polygon-hover/new-horizons-graph.png">Graph</a>');  // EDIT pop-up text message
 
 /* Display a blue point marker with pop-up text */
   L.marker([41.33, -72.88]).addTo(map) // EDIT latitude, longitude to re-position marker
-  .bindPopup("Insert pop-up text here"); // EDIT pop-up text message
+  .bindPopup('Go to <a href="http://www.bhcare.org/page/22595-The-Umbrella-Center-for-Domestic-Violence-Services" target="_blank">The Umbrella Center for Domestic Violence Services New Haven,CT</a><br>View <a href="https://aniaaliev.github.io/leaflet-map-polygon-hover/umbrella-center-new-haven-graph.png">Graph</a>');  // EDIT pop-up text message
 
 /* Display a blue point marker with pop-up text */
   L.marker([41.51, -72.85]).addTo(map) // EDIT latitude, longitude to re-position marker
-  .bindPopup("Insert pop-up text here"); // EDIT pop-up text message
+  .bindPopup('Go to <a href="https://mwchrysalis.org" target="_blank">Chrysalis Domestic Violence Services</a><br>View <a href="https://aniaaliev.github.io/leaflet-map-polygon-hover/chrysalis-domestic-violence-services-graph.png">Graph</a>');  // EDIT pop-up text message
 
 /* Display a blue point marker with pop-up text */
   L.marker([41.65, -72.88]).addTo(map) // EDIT latitude, longitude to re-position marker
-  .bindPopup("Insert pop-up text here"); // EDIT pop-up text message
+  .bindPopup('Go to <a href="https://prudencecrandall.org" target="_blank">Prudence Crandall Center</a><br>View <a href="https://aniaaliev.github.io/leaflet-map-polygon-hover/prudence-crandall-center-graph.png">Graph</a>');  // EDIT pop-up text message
 
 /* Display a blue point marker with pop-up text */
   L.marker([41.83, -73.12]).addTo(map) // EDIT latitude, longitude to re-position marker
