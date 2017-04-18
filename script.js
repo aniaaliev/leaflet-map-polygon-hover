@@ -49,11 +49,11 @@ function getColor(d) {
 }
 /* Display a blue point marker with pop-up text */
   L.marker([41.74, -72.67]).addTo(map) // EDIT latitude, longitude to re-position marker Interval House
-  .bindPopup('Go to <a href="http://intervalhousect.org" target="_blank">Interval House</a><br>View <a href="https://aniaaliev.github.io/leaflet-map-polygon-hover/interval-house-graph.png">data</a>');  // EDIT pop-up text message
+  .bindPopup('Go to <a href="http://intervalhousect.org" target="_blank">Interval House</a><br>View <a href="https://aniaaliev.github.io/leaflet-map-polygon-hover/interval-house-graph.png">Graph</a>');  // EDIT pop-up text message
 
 /* Display a blue point marker with pop-up text */
   L.marker([41.99, -72.56]).addTo(map) // EDIT latitude, longitude to re-position marker The Network
-  .bindPopup("Insert pop-up text here"); // EDIT pop-up text message
+  .bindPopup('Go to <a href="http://thenetworkct.org" target="_blank">The Network</a><br>View <a href="https://aniaaliev.github.io/leaflet-map-polygon-hover/the-network-graph.png">Graph</a>');  // EDIT pop-up text message
 
 /* Display a blue point marker with pop-up text */
   L.marker([41.83, -71.87]).addTo(map) // EDIT latitude, longitude to re-position marker Dayville
