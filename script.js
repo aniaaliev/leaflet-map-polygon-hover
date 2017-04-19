@@ -49,11 +49,11 @@ function getColor(d) {
 }
 /* Display a blue point marker with pop-up text */
   L.marker([41.74, -72.67]).addTo(map) // EDIT latitude, longitude to re-position marker Interval House
-  .bindPopup('Go to <a href="http://intervalhousect.org" target="_blank">Interval House</a><br>View Top Three Services<a href="https://aniaaliev.github.io/leaflet-map-polygon-hover/interval-house-graph.png">Graph</a>');  // EDIT pop-up text message
+  .bindPopup('Go to <a href="http://intervalhousect.org" target="_blank">Interval House</a><br>View Top Three Services <a href="https://aniaaliev.github.io/leaflet-map-polygon-hover/interval-house-graph.png">Graph</a>');  // EDIT pop-up text message
 
 /* Display a blue point marker with pop-up text */
   L.marker([41.99, -72.56]).addTo(map) // EDIT latitude, longitude to re-position marker The Network
-  .bindPopup('Go to <a href="http://thenetworkct.org" target="_blank">The Network</a><br>View <a href="https://aniaaliev.github.io/leaflet-map-polygon-hover/the-network-graph.png">Graph</a>');  // EDIT pop-up text message
+  .bindPopup('Go to <a href="http://thenetworkct.org" target="_blank">The Network</a><br>View Top Three Services <a href="https://aniaaliev.github.io/leaflet-map-polygon-hover/the-network-graph.png">Graph</a>');  // EDIT pop-up text message
 
 /* Display a blue point marker with pop-up text */
   L.marker([41.83, -71.87]).addTo(map) // EDIT latitude, longitude to re-position marker Dayville
@@ -61,51 +61,51 @@ function getColor(d) {
 
 /* Display a blue point marker with pop-up text */
   L.marker([41.81, -72.23]).addTo(map) // EDIT latitude, longitude to re-position marker
-  .bindPopup('Go to <a href="http://unitedservicesct.org/services/domestic-violence" target="_blank">Domestic Violence Program/United Services, Inc- Willimantic, CT</a><br>View <a href="https://aniaaliev.github.io/leaflet-map-polygon-hover/domestic-violence-program-willimantic-graph.png">Graph</a>');  // EDIT pop-up text message
+  .bindPopup('Go to <a href="http://unitedservicesct.org/services/domestic-violence" target="_blank">Domestic Violence Program/United Services, Inc- Willimantic, CT</a><br>View Top Three Services <a href="https://aniaaliev.github.io/leaflet-map-polygon-hover/domestic-violence-program-willimantic-graph.png">Graph</a>');  // EDIT pop-up text message
 
 /* Display a blue point marker with pop-up text */
   L.marker([41.52, -72.04]).addTo(map) // EDIT latitude, longitude to re-position marker
-  .bindPopup('Go to <a href="http://www.safefuturesct.org" target="_blank">Safe Futures</a><br>View <a href="https://aniaaliev.github.io/leaflet-map-polygon-hover/safe-futures-graph.png">Graph</a>');  // EDIT pop-up text message
+  .bindPopup('Go to <a href="http://www.safefuturesct.org" target="_blank">Safe Futures</a><br>View Top Three Services <a href="https://aniaaliev.github.io/leaflet-map-polygon-hover/safe-futures-graph.png">Graph</a>');  // EDIT pop-up text message
 
 /* Display a blue point marker with pop-up text */
   L.marker([41.47, -72.55]).addTo(map) // EDIT latitude, longitude to re-position marker
-  .bindPopup('Go to <a href="http://www.newhorizonsdv.com" target="_blank">New Horizons</a><br>View <a href="https://aniaaliev.github.io/leaflet-map-polygon-hover/new-horizons-graph.png">Graph</a>');  // EDIT pop-up text message
+  .bindPopup('Go to <a href="http://www.newhorizonsdv.com" target="_blank">New Horizons</a><br>View Top Three Services <a href="https://aniaaliev.github.io/leaflet-map-polygon-hover/new-horizons-graph.png">Graph</a>');  // EDIT pop-up text message
 
 /* Display a blue point marker with pop-up text */
   L.marker([41.33, -72.88]).addTo(map) // EDIT latitude, longitude to re-position marker
-  .bindPopup('Go to <a href="http://www.bhcare.org/page/22595-The-Umbrella-Center-for-Domestic-Violence-Services" target="_blank">The Umbrella Center for Domestic Violence Services New Haven,CT</a><br>View <a href="https://aniaaliev.github.io/leaflet-map-polygon-hover/umbrella-center-new-haven-graph.png">Graph</a>');  // EDIT pop-up text message
+  .bindPopup('Go to <a href="http://www.bhcare.org/page/22595-The-Umbrella-Center-for-Domestic-Violence-Services" target="_blank">The Umbrella Center for Domestic Violence Services New Haven,CT</a><br>View Top Three Services <a href="https://aniaaliev.github.io/leaflet-map-polygon-hover/umbrella-center-new-haven-graph.png">Graph</a>');  // EDIT pop-up text message
 
 /* Display a blue point marker with pop-up text */
   L.marker([41.51, -72.85]).addTo(map) // EDIT latitude, longitude to re-position marker
-  .bindPopup('Go to <a href="https://mwchrysalis.org" target="_blank">Chrysalis Domestic Violence Services</a><br>View <a href="https://aniaaliev.github.io/leaflet-map-polygon-hover/chrysalis-domestic-violence-services-graph.png">Graph</a>');  // EDIT pop-up text message
+  .bindPopup('Go to <a href="https://mwchrysalis.org" target="_blank">Chrysalis Domestic Violence Services</a><br>View Top Three Services <a href="https://aniaaliev.github.io/leaflet-map-polygon-hover/chrysalis-domestic-violence-services-graph.png">Graph</a>');  // EDIT pop-up text message
 
 /* Display a blue point marker with pop-up text */
   L.marker([41.65, -72.88]).addTo(map) // EDIT latitude, longitude to re-position marker
-  .bindPopup('Go to <a href="https://prudencecrandall.org" target="_blank">Prudence Crandall Center</a><br>View <a href="https://aniaaliev.github.io/leaflet-map-polygon-hover/prudence-crandall-center-graph.png">Graph</a>');  // EDIT pop-up text message
+  .bindPopup('Go to <a href="https://prudencecrandall.org" target="_blank">Prudence Crandall Center</a><br>View Top Three Services <a href="https://aniaaliev.github.io/leaflet-map-polygon-hover/prudence-crandall-center-graph.png">Graph</a>');  // EDIT pop-up text message
 
 /* Display a blue point marker with pop-up text */
   L.marker([41.83, -73.12]).addTo(map) // EDIT latitude, longitude to re-position marker
-  .bindPopup('Go to <a href="http://sbaproject.org" target="_blank">Susan B. Anthony Project</a><br>View <a href="https://aniaaliev.github.io/leaflet-map-polygon-hover/susan-b-anthony-project-graph.png">Graph</a>');  // EDIT pop-up text message
+  .bindPopup('Go to <a href="http://sbaproject.org" target="_blank">Susan B. Anthony Project</a><br>View Top Three Services <a href="https://aniaaliev.github.io/leaflet-map-polygon-hover/susan-b-anthony-project-graph.png">Graph</a>');  // EDIT pop-up text message
 
 /* Display a blue point marker with pop-up text */
   L.marker([41.55, -73.14]).addTo(map) // EDIT latitude, longitude to re-position marker
-  .bindPopup('Go to <a href="http://www.safehavengw.org" target="_blank">Safe Haven of Greater Waterbury</a><br>View <a href="https://aniaaliev.github.io/leaflet-map-polygon-hover/safe-haven-greater-waterbury-graph.png">Graph</a>');  // EDIT pop-up text message
+  .bindPopup('Go to <a href="http://www.safehavengw.org" target="_blank">Safe Haven of Greater Waterbury</a><br>View Top Three Services <a href="https://aniaaliev.github.io/leaflet-map-polygon-hover/safe-haven-greater-waterbury-graph.png">Graph</a>');  // EDIT pop-up text message
 
 /* Display a blue point marker with pop-up text */
   L.marker([41.38, -73.09]).addTo(map) // EDIT latitude, longitude to re-position marker
-  .bindPopup('Go to <a href="http://www.bhcare.org/page/22595-The-Umbrella-Center-for-Domestic-Violence-Services" target="_blank">The Umbrella Center for Domestic Violence Services-Ansonia, CT</a><br>View <a href="https://aniaaliev.github.io/leaflet-map-polygon-hover/umbrella-center-ansonia-graph.png">Graph</a>');  // EDIT pop-up text message
+  .bindPopup('Go to <a href="http://www.bhcare.org/page/22595-The-Umbrella-Center-for-Domestic-Violence-Services" target="_blank">The Umbrella Center for Domestic Violence Services-Ansonia, CT</a><br>View Top Three Services <a href="https://aniaaliev.github.io/leaflet-map-polygon-hover/umbrella-center-ansonia-graph.png">Graph</a>');  // EDIT pop-up text message
 
 /* Display a blue point marker with pop-up text */
   L.marker([41.26, -73.25]).addTo(map) // EDIT latitude, longitude to re-position marker
-  .bindPopup('Go to <a href="http://centerforfamilyjustice.org" target="_blank">Center for Family Justice</a><br>View <a href="https://aniaaliev.github.io/leaflet-map-polygon-hover/center-for-family-justice-graph.png">Graph</a>');  // EDIT pop-up text message
+  .bindPopup('Go to <a href="http://centerforfamilyjustice.org" target="_blank">Center for Family Justice</a><br>View Top Three Services <a href="https://aniaaliev.github.io/leaflet-map-polygon-hover/center-for-family-justice-graph.png">Graph</a>');  // EDIT pop-up text message
 
 /* Display a blue point marker with pop-up text */
   L.marker([41.46, -73.42]).addTo(map) // EDIT latitude, longitude to re-position marker
-  .bindPopup('Go to <a href="http://wcogd.org" target="_blank">Womens Center</a><br>View <a href="https://aniaaliev.github.io/leaflet-map-polygon-hover/womens-center-graph.png">Graph</a>');  // EDIT pop-up text message
+  .bindPopup('Go to <a href="http://wcogd.org" target="_blank">Womens Center</a><br>View Top Three Services <a href="https://aniaaliev.github.io/leaflet-map-polygon-hover/womens-center-graph.png">Graph</a>');  // EDIT pop-up text message
 
 /* Display a blue point marker with pop-up text */
   L.marker([41.91, -73.36]).addTo(map) // EDIT latitude, longitude to re-position marker
-  .bindPopup('Go to <a href="http://www.wssdv.org" target="_blank">Womens Support Services</a><br>View <a href="https://aniaaliev.github.io/leaflet-map-polygon-hover/womens-support-services-graph.png">Graph</a>');  // EDIT pop-up text message
+  .bindPopup('Go to <a href="http://www.wssdv.org" target="_blank">Womens Support Services</a><br>View Top Three Services <a href="https://aniaaliev.github.io/leaflet-map-polygon-hover/womens-support-services-graph.png">Graph</a>');  // EDIT pop-up text message
 
 /* Display a blue point marker with pop-up text */
   L.marker([41.16, -73.40]).addTo(map) // EDIT latitude, longitude to re-position marker
@@ -113,11 +113,11 @@ function getColor(d) {
 
 /* Display a blue point marker with pop-up text */
   L.marker([41.10, -73.55]).addTo(map) // EDIT latitude, longitude to re-position marker
-  .bindPopup('Go to <a href="http://www.dvccct.org" target="_blank">Domestic Violence Crisis Center-Stamford, CT</a><br>View <a href="https://aniaaliev.github.io/leaflet-map-polygon-hover/stamford-graph.png">Graph</a>');  // EDIT pop-up text message
+  .bindPopup('Go to <a href="http://www.dvccct.org" target="_blank">Domestic Violence Crisis Center-Stamford, CT</a><br>View Top Three Services <a href="https://aniaaliev.github.io/leaflet-map-polygon-hover/stamford-graph.png">Graph</a>');  // EDIT pop-up text message
 
 /* Display a blue point marker with pop-up text */
   L.marker([41.07, -73.63]).addTo(map) // EDIT latitude, longitude to re-position marker
-  .bindPopup('Go to <a href="http://www.ywcagreenwich.org/domestic-abuse-services" target="_blank">Domestic Abuse Services-Greenwich YWCA</a><br>View <a href="https://aniaaliev.github.io/leaflet-map-polygon-hover/greenwich-graph.png">Graph</a>');  // EDIT pop-up text message
+  .bindPopup('Go to <a href="http://www.ywcagreenwich.org/domestic-abuse-services" target="_blank">Domestic Abuse Services-Greenwich YWCA</a><br>View Top Three Services <a href="https://aniaaliev.github.io/leaflet-map-polygon-hover/greenwich-graph.png">Graph</a>');  // EDIT pop-up text message
 
 // Edit the getColor property to match data column header in your GeoJson file
 function style(feature) {
