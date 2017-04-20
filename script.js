@@ -57,7 +57,7 @@ function getColor(d) {
 
 /* Display a blue point marker with pop-up text */
   L.marker([41.83, -71.87]).addTo(map) // EDIT latitude, longitude to re-position marker Dayville
-  .bindPopup("Insert pop-up text here"); // EDIT pop-up text message
+  .bindPopup('Go to <a href="http://unitedservicesct.org/services/domestic-violence" target="_blank">Domestic Violence Program/United Services, Inc- Dayville, CT</a><br>View Top Three Services <a href="https://aniaaliev.github.io/leaflet-map-polygon-hover/dayville-graph.png">Graph</a>');  // EDIT pop-up text message
 
 /* Display a blue point marker with pop-up text */
   L.marker([41.81, -72.23]).addTo(map) // EDIT latitude, longitude to re-position marker
