@@ -27,7 +27,7 @@ $.getJSON("data-map.geojson", function (data) {
 // Any values not listed in the ranges below displays as the last color
 function getColor(d) {
   return d === "Interval House" ? 'yellow' :
-         d == "The Network" ? 'teal' :
+         d == "The Network" ? '#b3f0ff' :
          d == "The Center For Family Justice"  ? 'pink' :
          d == "Susan B. Anthony Project"  ? 'magenta' :
          d == "Safe Haven of Greater Waterbury"  ? 'beige' :
