@@ -28,9 +28,9 @@ $.getJSON("data-map.geojson", function (data) {
 function getColor(d) {
   return d === "Interval House" ? 'yellow' :
          d == "The Network" ? '#b3f0ff' :
-         d == "The Center For Family Justice"  ? 'pink' :
-         d == "Susan B. Anthony Project"  ? 'magenta' :
-         d == "Safe Haven of Greater Waterbury"  ? 'beige' :
+         d == "The Center For Family Justice"  ? '#ecc6ec' :
+         d == "Susan B. Anthony Project"  ? '#ff80aa' :
+         d == "Safe Haven of Greater Waterbury"  ? '#dfbf9f' :
          d == "Womens Center"   ? 'green' :
          d == "Womens Support Services"   ? 'blue' :
          d == "Safe Futures" ? 'lavender' :
