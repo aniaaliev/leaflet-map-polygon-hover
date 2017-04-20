@@ -29,12 +29,12 @@ function getColor(d) {
   return d === "Interval House" ? 'yellow' :
          d == "The Network" ? '#b3f0ff' :
          d == "The Center For Family Justice"  ? '#ecc6ec' :
-         d == "Susan B. Anthony Project"  ? '#ff80aa' :
+         d == "Susan B. Anthony Project"  ? '#ff4d88' :
          d == "Safe Haven of Greater Waterbury"  ? '#dfbf9f' :
-         d == "Womens Center"   ? 'green' :
-         d == "Womens Support Services"   ? 'blue' :
-         d == "Safe Futures" ? 'lavender' :
-         d == "Domestic Violence Program/United Services Inc.- Willimantic, CT" ? 'orange' :
+         d == "Womens Center"   ? '#009900' :
+         d == "Womens Support Services"   ? '#66d9ff' :
+         d == "Safe Futures" ? '#e6ccff' :
+         d == "Domestic Violence Program/United Services Inc.- Willimantic, CT" ? '#ffa64d' :
          d == "Domestic Violence Program/United Services Inc.-Dayville, CT" ? 'purple' :
          d == "The Umbrella Center For Domestic Violence Services-Ansonia, CT" ? 'navy' :
          d == "The Umbrella Center For Domestic Violence Services-North Haven, CT" ? 'gray' :
