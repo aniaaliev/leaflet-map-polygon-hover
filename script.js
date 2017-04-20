@@ -35,15 +35,15 @@ function getColor(d) {
          d == "Womens Support Services"   ? '#66d9ff' :
          d == "Safe Futures" ? '#e6ccff' :
          d == "Domestic Violence Program/United Services Inc.- Willimantic, CT" ? '#ffa64d' :
-         d == "Domestic Violence Program/United Services Inc.-Dayville, CT" ? 'purple' :
-         d == "The Umbrella Center For Domestic Violence Services-Ansonia, CT" ? 'navy' :
-         d == "The Umbrella Center For Domestic Violence Services-North Haven, CT" ? 'gray' :
-         d == "Chrysalis Domestic Violence Services" ? 'olive' :
-         d == "Domestic Violence Crisis Center-Stamford, CT" ? 'turquoise' :
-         d == "Domestic Abuse Services-Greenwich YWCA" ? 'gold' :
-         d == "New Horizons" ? 'aqua' :
-         d == "Prudence Crandall Center" ? 'violet' :
-         d == "Domestic Violence Crisis Center- Norwalk, CT" ? 'azure' :
+         d == "Domestic Violence Program/United Services Inc.-Dayville, CT" ? '#b366ff' :
+         d == "The Umbrella Center For Domestic Violence Services-Ansonia, CT" ? '#4d94ff' :
+         d == "The Umbrella Center For Domestic Violence Services-North Haven, CT" ? '#e6ffb3' :
+         d == "Chrysalis Domestic Violence Services" ? '#a4dd88' :
+         d == "Domestic Violence Crisis Center-Stamford, CT" ? '#1a53ff' :
+         d == "Domestic Abuse Services-Greenwich YWCA" ? '#ffa31a' :
+         d == "New Horizons" ? '#00aaff' :
+         d == "Prudence Crandall Center" ? '#cca1f7' :
+         d == "Domestic Violence Crisis Center- Norwalk, CT" ? '#b3d9ff' :
                     '#FFEDA0';
   
 }
