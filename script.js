@@ -49,7 +49,7 @@ function getColor(d) {
 }
 /* Display a blue point marker with pop-up text */
   L.marker([41.74, -72.67]).addTo(map) // EDIT latitude, longitude to re-position marker Interval House
-  .bindPopup('Go to <a href="http://intervalhousect.org" target="_blank">Interval House</a><br>View Top Three Services <a href="https://aniaaliev.github.io/leaflet-map-polygon-hover/interval-house-graph.png">Graph</a>');  // EDIT pop-up text message
+  .bindPopup('Go to <a href="http://intervalhousect.org" target="_blank">Interval House</a><br>View Top Three Services <a href="https://aniaaliev.github.io/leaflet-map-polygon-hover/interval-house-graph.png">Graph</a><br>View Fact Sheet <a href="https://aniaaliev.github.io/leaflet-map-polygon-hover/interval-house-fact-sheet.pdf">Here</a>');  // EDIT pop-up text message
 
 /* Display a blue point marker with pop-up text */
   L.marker([41.99, -72.56]).addTo(map) // EDIT latitude, longitude to re-position marker The Network
