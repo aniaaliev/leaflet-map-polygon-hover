@@ -77,19 +77,19 @@ function getColor(d) {
 
 /* Display a blue point marker with pop-up text */
   L.marker([41.51, -72.85]).addTo(map) // EDIT latitude, longitude to re-position marker
-  .bindPopup('Go to <a href="https://mwchrysalis.org" target="_blank">Chrysalis Domestic Violence Services</a><br>View Top Three Services <a href="https://aniaaliev.github.io/leaflet-map-polygon-hover/chrysalis-domestic-violence-services-graph.png">Graph</a><br>View Fact Sheet <a href="https://aniaaliev.github.io/leaflet-map-polygon-hover/chrysalis-fact-sheet.pdf">Here</a>');  // EDIT pop-up text message');  // EDIT pop-up text message
+  .bindPopup('Go to <a href="https://mwchrysalis.org" target="_blank">Chrysalis Domestic Violence Services</a><br>View Top Three Services <a href="https://aniaaliev.github.io/leaflet-map-polygon-hover/chrysalis-domestic-violence-services-graph.png">Graph</a><br>View Fact Sheet <a href="https://aniaaliev.github.io/leaflet-map-polygon-hover/chrysalis-fact-sheet.pdf">Here</a>');  // EDIT pop-up text message
 
 /* Display a blue point marker with pop-up text */
   L.marker([41.65, -72.88]).addTo(map) // EDIT latitude, longitude to re-position marker
-  .bindPopup('Go to <a href="https://prudencecrandall.org" target="_blank">Prudence Crandall Center</a><br>View Top Three Services <a href="https://aniaaliev.github.io/leaflet-map-polygon-hover/prudence-crandall-center-graph.png">Graph</a>');  // EDIT pop-up text message
+  .bindPopup('Go to <a href="https://prudencecrandall.org" target="_blank">Prudence Crandall Center</a><br>View Top Three Services <a href="https://aniaaliev.github.io/leaflet-map-polygon-hover/prudence-crandall-center-graph.png">Graph</a><br>View Fact Sheet <a href="https://aniaaliev.github.io/leaflet-map-polygon-hover/pcc-fact-sheet.pdf">Here</a>');   // EDIT pop-up text message
 
 /* Display a blue point marker with pop-up text */
   L.marker([41.83, -73.12]).addTo(map) // EDIT latitude, longitude to re-position marker
-  .bindPopup('Go to <a href="http://sbaproject.org" target="_blank">Susan B. Anthony Project</a><br>View Top Three Services <a href="https://aniaaliev.github.io/leaflet-map-polygon-hover/susan-b-anthony-project-graph.png">Graph</a>');  // EDIT pop-up text message
+  .bindPopup('Go to <a href="http://sbaproject.org" target="_blank">Susan B. Anthony Project</a><br>View Top Three Services <a href="https://aniaaliev.github.io/leaflet-map-polygon-hover/susan-b-anthony-project-graph.png">Graph</a><br>View Fact Sheet <a href="https://aniaaliev.github.io/leaflet-map-polygon-hover/sbap-fact-sheet.pdf">Here</a>');   // EDIT pop-up text message
 
 /* Display a blue point marker with pop-up text */
   L.marker([41.55, -73.14]).addTo(map) // EDIT latitude, longitude to re-position marker
-  .bindPopup('Go to <a href="http://www.safehavengw.org" target="_blank">Safe Haven of Greater Waterbury</a><br>View Top Three Services <a href="https://aniaaliev.github.io/leaflet-map-polygon-hover/safe-haven-greater-waterbury-graph.png">Graph</a>');  // EDIT pop-up text message
+  .bindPopup('Go to <a href="http://www.safehavengw.org" target="_blank">Safe Haven of Greater Waterbury</a><br>View Top Three Services <a href="https://aniaaliev.github.io/leaflet-map-polygon-hover/safe-haven-greater-waterbury-graph.png">Graph</a><br>View Fact Sheet <a href="https://aniaaliev.github.io/leaflet-map-polygon-hover/safe-haven-greater-waterbury-fact-sheet.pdf">Here</a>');  // EDIT pop-up text message
 
 /* Display a blue point marker with pop-up text */
   L.marker([41.38, -73.09]).addTo(map) // EDIT latitude, longitude to re-position marker
