@@ -77,7 +77,7 @@ function getColor(d) {
 
 /* Display a blue point marker with pop-up text */
   L.marker([41.51, -72.85]).addTo(map) // EDIT latitude, longitude to re-position marker
-  .bindPopup('Go to <a href="https://mwchrysalis.org" target="_blank">Chrysalis Domestic Violence Services</a><br>View Top Three Services <a href="https://aniaaliev.github.io/leaflet-map-polygon-hover/chrysalis-domestic-violence-services-graph.png">Graph</a>');  // EDIT pop-up text message
+  .bindPopup('Go to <a href="https://mwchrysalis.org" target="_blank">Chrysalis Domestic Violence Services</a><br>View Top Three Services <a href="https://aniaaliev.github.io/leaflet-map-polygon-hover/chrysalis-domestic-violence-services-graph.png">Graph</a><br>View Fact Sheet <a href="https://aniaaliev.github.io/leaflet-map-polygon-hover/chrysalis-fact-sheet.pdf">Here</a>');  // EDIT pop-up text message');  // EDIT pop-up text message
 
 /* Display a blue point marker with pop-up text */
   L.marker([41.65, -72.88]).addTo(map) // EDIT latitude, longitude to re-position marker
